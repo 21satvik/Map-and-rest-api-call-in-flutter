@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953526740698",
+    "project_id": "innostack-assignment",
+    "storage_bucket": "innostack-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953526740698:android:217787e421ad9ea76367e3",
+        "android_client_info": {
+          "package_name": "com.example.innostack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953526740698-m3veidqj5vkqjeudg2e5f08384urmlgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0RXYl0c9WB-FuG4OcXWpgIQoD049ZpfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953526740698-m3veidqj5vkqjeudg2e5f08384urmlgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
